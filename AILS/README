@@ -1,1 +1,5 @@
+NTUA AILS Machine learning competition solutions. 
 
+Task 1 was a simple machine learning implemantation.
+Task 2 was a computer vision iimplementation, where we used transfer learning to recognise images with skin melanoma.
+Task 3 was a medical NLP machine learning problem, where we used BERT for work=ds tokenization.
