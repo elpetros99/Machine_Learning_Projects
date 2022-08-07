@@ -2,4 +2,9 @@ NTUA AILS Machine learning competition solutions.
 
 Task 1 was a simple machine learning implemantation.
 Task 2 was a computer vision iimplementation, where we used transfer learning to recognise images with skin melanoma.
-Task 3 was a medical NLP machine learning problem, where we used BERT for work=ds tokenization.
+Task 3 was a medical NLP machine learning problem, where we used BERT for words tokenization.
+
+The Tasks assignments can be found in the following links accordingly:
+1. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.kaggle.com%2Fcompetitions%2Feestech-challenge-task-1%3Ffbclid%3DIwAR2hRF3pKC96k-YfNQr3W1nPUoKIdpGHCgb4oURpwLKnQFLsC6USqOXEEnQ&h=AT2TJX8O9aPVezNiuQRTvkJS4yrmmJsVWYsTV6Pgsk6b6qX8sX8sMat2Wayc5jS30ZTYDa6dgjw7Z1Auzpcp05IV0XBr5q1dQzoopsnePlKe_rBlyWBlITE_w5O7eI-wCEOvkA
+2. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.kaggle.com%2Fcompetitions%2Feestech-challenge-task-2%3Ffbclid%3DIwAR2hRF3pKC96k-YfNQr3W1nPUoKIdpGHCgb4oURpwLKnQFLsC6USqOXEEnQ&h=AT2TJX8O9aPVezNiuQRTvkJS4yrmmJsVWYsTV6Pgsk6b6qX8sX8sMat2Wayc5jS30ZTYDa6dgjw7Z1Auzpcp05IV0XBr5q1dQzoopsnePlKe_rBlyWBlITE_w5O7eI-wCEOvkA
+3. https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.kaggle.com%2Fcompetitions%2Feestech-challenge-task-3%3Ffbclid%3DIwAR3vhtYw3RXTVtiZupNnxMCXR2m2l9qVn4tSh6Se09H3SXRXXf0XKXrvtM0&h=AT2TJX8O9aPVezNiuQRTvkJS4yrmmJsVWYsTV6Pgsk6b6qX8sX8sMat2Wayc5jS30ZTYDa6dgjw7Z1Auzpcp05IV0XBr5q1dQzoopsnePlKe_rBlyWBlITE_w5O7eI-wCEOvkA
